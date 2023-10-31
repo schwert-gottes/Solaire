@@ -81,7 +81,7 @@ A seamless and smooth messenger to allow users to interact swiftly.
 ## Contact
 
 
-If you have any questions or feedback regarding this project, feel free to reach out to me:
+If you have any questions or feedback regarding this project, feel free to reach out to me :
 
 
 - LinkedIn: [SaifUllah Alam](https://www.linkedin.com/in/schwert-gottes/)
