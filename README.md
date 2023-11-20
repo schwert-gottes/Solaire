@@ -84,7 +84,5 @@ A seamless and smooth messenger to allow users to interact swiftly.
 If you have any questions or feedback regarding this project, feel free to reach out to me :
 
 
-- LinkedIn: [SaifUllah Alam](https://www.linkedin.com/in/schwert-gottes/)
-- Upwork: [SaifUllah Alam](https://www.upwork.com/freelancers/saifullahalam2)
 
 I'd be happy to hear from you and discuss anything related to this project or any potential collaborations!
