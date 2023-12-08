@@ -66,7 +66,7 @@ A seamless and smooth messenger to allow users to interact swiftly.
 ## Reward System
 
 
- <img alt="GitPoint" title="GitPoint" src="https://i.imgur.com/oz1tyKh.png" width="350px" >
+
 
 
 ## Additional functionalities
