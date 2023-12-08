@@ -60,7 +60,7 @@ Web3 Fusion of Facebook and Instagram. Offering an interactive way to have a dig
 
 A seamless and smooth messenger to allow users to interact swiftly.
 
- <img alt="GitPoint" title="GitPoint" src="https://www.datocms-assets.com/94322/1690377455-solaire-message.png" width="350px" >
+
 
 
 ## Reward System
